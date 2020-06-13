@@ -15,8 +15,8 @@
 ---
 
 @snap[west span-33 text-center]
-
-![title=Mechanical System, width=150](assets/img/assembly.png)
+Mechanical System
+![width=150](assets/img/assembly.png)
 @snapend
 
 @snap[midpoint span-33 text-center]
@@ -26,7 +26,7 @@ Back End
 
 @snap[east span-33 text-center]
 Front End
-![width=150](https://image.flaticon.com/icons/svg/2905/2905113.svg)
+![width=150](assets/img/wiring.png)
 @snapend
 
 
