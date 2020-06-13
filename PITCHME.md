@@ -15,21 +15,21 @@
 ---?color=white
 
 @snap[west span-33 text-black]
-#### @color[black](GraphQL)
+#### @color[black](Mechanical System)
 ![width=180](assets/img/assembly.png)G
 @snapend
 
 @snap[midpoint span-33 text-center]
-#### @color[black](GraphQL)
+#### @color[black](Back End)
 ![width=180](assets/img/wiring.png)G
 @snapend
 
 @snap[east span-33 text-center]
-#### @color[black](GraphQL)
+#### @color[black](Front End)
 ![width=180](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
 @snapend
 
----
+---?color=white
 ![IMAGE](assets/img/ver1.png)
 
 ---
