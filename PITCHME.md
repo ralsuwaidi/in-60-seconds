@@ -12,23 +12,20 @@
 - Design Re-skin 
 @ulend
 
----?color=linear-gradient(90deg, white 50%, black 50%)
+---?color=linear-gradient(90deg, white 50%, white 50%)
 
 @snap[west span-33 text-center]
 ### GraphQL
-@fa[quote-left](A query language for your API)
 ![width=400](assets/img/assembly.png)G
 @snapend
 
-@snap[north span-33 text-center]
+@snap[midpoint span-33 text-center]
 ### GraphQL
-@fa[quote-left](A query language for your API)
 ![width=400](assets/img/wiring.png)G
 @snapend
 
 @snap[east span-33 text-center]
 ### GraphQL
-@fa[quote-left](A query language for your API)
 ![width=400](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
 @snapend
 
