@@ -2,6 +2,17 @@
 
 ---
 
+### Content
+@ul[list-spaced-bullets text-09]
+- You will be amazed
+- What you can achieve
+- With a **little imagination**
+- And GitPitch Markdown
+@ulend
+
+---
+
+
 ### Add Some Slide Candy
 
 ![IMAGE](assets/img/presentation.png)
