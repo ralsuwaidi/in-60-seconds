@@ -12,7 +12,7 @@
 - Design Re-skin 
 @ulend
 
----?color=#000000
+---?color=white
 
 @snap[west span-33 text-center text-black]
 #### GraphQL
@@ -30,7 +30,7 @@
 @snapend
 
 ---
-![IMAGE](assets/img/ver1.svg)
+![IMAGE](assets/img/ver1.png)
 
 ---
 ### Add Some Slide Candy
