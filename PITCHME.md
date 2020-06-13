@@ -12,7 +12,7 @@
 - Design Re-skin 
 @ulend
 
----?color=linear-gradient(90deg, white 100%)
+---?color=linear-gradient(90deg, white 50%, black 50%)
 
 @snap[west span-40 text-center]
 
