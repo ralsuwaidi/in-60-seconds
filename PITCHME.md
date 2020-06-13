@@ -26,7 +26,8 @@
 
 @snap[east span-33 text-center]
 ### GraphQL
-![width=200](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
+![width=200gitpitch white svg
+@color[white](![width=200](https://image.flaticon.com/icons/svg/2905/2905113.svg)G)
 @snapend
 
 ---
