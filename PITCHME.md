@@ -16,17 +16,17 @@
 
 @snap[west span-33 text-center]
 ### GraphQL
-![width=400](assets/img/assembly.png)G
+![width=200](assets/img/assembly.png)G
 @snapend
 
 @snap[midpoint span-33 text-center]
 ### GraphQL
-![width=400](assets/img/wiring.png)G
+![width=200](assets/img/wiring.png)G
 @snapend
 
 @snap[east span-33 text-center]
 ### GraphQL
-![width=400](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
+![width=200](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
 @snapend
 
 ---
