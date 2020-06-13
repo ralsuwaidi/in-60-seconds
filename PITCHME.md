@@ -14,12 +14,22 @@
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
-@snap[west span-40 text-center]
-
+@snap[west span-33 text-center]
 ### GraphQL
 @fa[quote-left](A query language for your API)
-![GRAPHQL](assets/img/assembly.png)G
+![width=400](assets/img/assembly.png)G
+@snapend
 
+@snap[central span-33 text-center]
+### GraphQL
+@fa[quote-left](A query language for your API)
+![width=400](assets/img/wiring.png)G
+@snapend
+
+@snap[east span-33 text-center]
+### GraphQL
+@fa[quote-left](A query language for your API)
+![width=400](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
 @snapend
 
 ---
