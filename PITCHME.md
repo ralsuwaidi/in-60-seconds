@@ -26,6 +26,8 @@
 
 @snap[north-east span-33 text-center]
 #### Front End
+@snapend
+@snap[east]
 ![width=180](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
 @snapend
 
