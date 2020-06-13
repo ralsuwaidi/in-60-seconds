@@ -15,8 +15,8 @@
 ---
 
 @snap[west span-33 text-center]
-Mechanical System
-![test](assets/img/assembly.png)
+
+![title=Mechanical System, width=150](assets/img/assembly.png)
 @snapend
 
 @snap[midpoint span-33 text-center]
