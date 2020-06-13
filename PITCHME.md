@@ -4,10 +4,12 @@
 
 ### Content
 @ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
+- My Responsibility
+- Initial Source Code & Design
+- Challenges Using Golang and Raspberry Pi
+- Is there a better method?
+- Finding and Implementing a more Efficient Approach
+- Design Re-skin 
 @ulend
 
 ---
