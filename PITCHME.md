@@ -14,18 +14,18 @@
 
 ---?color=white
 
-@snap[west span-33 text-center text-black]
-#### GraphQL
+@snap[west span-33 text-black]
+#### @color[black](GraphQL)
 ![width=180](assets/img/assembly.png)G
 @snapend
 
-@snap[midpoint span-33 text-black text-center]
-#### GraphQL
+@snap[midpoint span-33 text-center]
+#### @color[black](GraphQL)
 ![width=180](assets/img/wiring.png)G
 @snapend
 
 @snap[east span-33 text-center]
-#### @color()[]GraphQL
+#### @color[black](GraphQL)
 ![width=180](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
 @snapend
 
