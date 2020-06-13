@@ -16,19 +16,19 @@
 
 @snap[north-west span-33 text-black]
 #### Mechanical System
-![width=180](assets/img/assembly.png)G
+![width=150](assets/img/assembly.png)G
 @snapend
 
 @snap[north span-33 text-center]
 #### Back End
-![width=180](assets/img/wiring.png)G
+![width=150](assets/img/wiring.png)G
 @snapend
 
 @snap[north-east span-33 text-center]
 #### Front End
 @snapend
-@snap[east]
-![width=180](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
+@snap[east text-center]
+![width=150](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
 @snapend
 
 ---
