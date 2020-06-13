@@ -20,7 +20,7 @@
 ![width=400](assets/img/assembly.png)G
 @snapend
 
-@snap[central span-33 text-center]
+@snap[north span-33 text-center]
 ### GraphQL
 @fa[quote-left](A query language for your API)
 ![width=400](assets/img/wiring.png)G
