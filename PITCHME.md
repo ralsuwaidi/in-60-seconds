@@ -25,11 +25,10 @@
 @snapend
 
 @snap[north-east span-33 text-center]
-#### Front End
-@snapend
-@snap[east text-center]
+Front End
 ![width=150](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
 @snapend
+
 
 ---
 ![IMAGE](assets/img/ver1.png)
