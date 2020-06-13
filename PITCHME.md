@@ -31,6 +31,9 @@
 @snapend
 
 ---
+![IMAGE](assets/img/ver1.svg)
+
+---
 ### Add Some Slide Candy
 
 ![IMAGE](assets/img/presentation.png)
