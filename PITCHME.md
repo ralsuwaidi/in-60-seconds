@@ -19,13 +19,13 @@
 ![width=180](assets/img/assembly.png)G
 @snapend
 
-@snap[midpoint span-33 text-center text-black]
+@snap[midpoint span-33 text-black text-center]
 #### GraphQL
 ![width=180](assets/img/wiring.png)G
 @snapend
 
-@snap[east span-33 text-center text-black]
-#### GraphQL
+@snap[east span-33 text-center]
+#### @color()[]GraphQL
 ![width=180](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
 @snapend
 
