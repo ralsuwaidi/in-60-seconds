@@ -14,17 +14,17 @@
 
 ---
 
-@snap[west span-33 text-black]
+@snap[north-west span-33 text-black]
 #### Mechanical System
 ![width=180](assets/img/assembly.png)G
 @snapend
 
-@snap[midpoint span-33 text-center]
+@snap[north span-33 text-center]
 #### Back End
 ![width=180](assets/img/wiring.png)G
 @snapend
 
-@snap[east span-33 text-center]
+@snap[north-east span-33 text-center]
 #### Front End
 ![width=180](https://image.flaticon.com/icons/svg/2905/2905113.svg)G
 @snapend
